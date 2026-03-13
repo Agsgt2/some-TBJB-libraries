@@ -9,6 +9,6 @@ You can now view hated ones by using `/hated`!
 ## Message Storage (message-storage.js)
 Get the 5 most recent messages using `/recent`!
 ## Javascript On Trollbox (JOTrollbox/javascript-on-trollbox.js)
-Use `/javascript` to run a javascript function.
+Use `/run` to run a javascript function.
 # TRIVIA
 1. Anti 67 breaks some URLs that contain 67
